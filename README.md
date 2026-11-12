@@ -1,6 +1,6 @@
 # DataPorium MCP server: financial, economic and housing data for Claude, ChatGPT, Cursor and AI agents
 
-DataPorium runs a remote [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server with 46 tools that read US investment data: stocks and company financials, ETFs, crypto, forex and commodities, Congress stock trades, layoffs, the US economy, banks, hospitals, elections, and housing down to the ZIP code. Connect it once, then ask your AI assistant in plain language. There is nothing to install.
+DataPorium runs a remote [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server with 46 tools that read US investment data: stocks and company financials, ETFs, crypto, forex and commodities, layoffs, the US economy, banks, hospitals, and housing down to the ZIP code. Connect it once, then ask your AI assistant in plain language. There is nothing to install.
 
 ```
 https://mcp.dataporium.io/mcp
