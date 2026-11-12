@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dataporium": {
+      "httpUrl": "https://mcp.dataporium.io/mcp",
+      "headers": { "Authorization": "Bearer YOUR_API_KEY" }
+    }
+  }
+}
